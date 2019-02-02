@@ -29,4 +29,4 @@
   
   ### *Friday*
   1. Party
-  1.:laughing:
+    1.:laughing:
