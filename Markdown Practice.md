@@ -13,7 +13,7 @@
   1. Graphs
   1. Tables
   1. Images 
-  1. ![Chicken Embryo](
+  1. ![Chicken Embryo](https://github.com/DaJerms/3IE1/blob/master/Chicken.jpg?raw=true)
   
   ### *Tuesday*
   * Go to Class
